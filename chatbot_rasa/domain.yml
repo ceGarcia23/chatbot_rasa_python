@@ -1,0 +1,20 @@
+version: "3.1"
+
+intents:
+  - greet
+  - recommend_product
+  - goodbye
+  - ask_whoami
+
+responses:
+  utter_greet:
+    - text: "¡Hola! ¿En qué puedo ayudarte hoy?"
+
+  utter_recommend_product:
+    - text: "Revisaré tus datos para sugerirte productos. Dame un momento."
+
+  utter_goodbye:
+    - text: "¡Hasta luego! Si necesitas algo más, no dudes en preguntar."
+
+  utter_iamabot:
+    - text: "Soy un asistente virtual y estoy aquí para ayudarte. ¿En qué puedo asistirte?"

@@ -1,0 +1,9 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJydjsEJwCAQBFuxgFRgKyEcQZcgxFPOMx+x9wjmL+S3A8Owe+ubaVnw0Ok0JLamzUF8RljzwR2KgodbC2Q4gQeqNZcA2heNqgqhqf4rLF4IXIoR7ClL8tWN3vECewNTbg==": "utter_recommend_product",
+    "eJydjlEKgCAQRK/iATqBV4lYxIYQco1t7Ue6e4L99aH0NwNvHjOXezLlEFzkvIbE1pQWiF2ENW/Zw6ngyuYTUpnAtao1mwB6dxxZFUIN/WfovBD4FCN4pUPSmv3go+9sxLw89P12hg==": "action_listen"
+  }
+}

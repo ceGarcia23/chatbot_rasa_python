@@ -1,0 +1,20 @@
+version: "3.1"
+
+stories:
+- story: saludo y recomendación
+  steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: recommend_product
+    - action: utter_recommend_product
+
+- story: despedida
+  steps:
+    - intent: goodbye
+    - action: utter_goodbye
+
+- story: preguntar quién soy
+  steps:
+    - intent: ask_whoami
+    - action: utter_iamabot
+
